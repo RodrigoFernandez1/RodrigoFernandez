@@ -1,0 +1,64 @@
+.acerca-de-mi {
+  padding: 60px 20px;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.section-title {
+  font-size: 2.5rem;
+  text-align: center;
+  margin-bottom: 30px;
+  color: #222;
+}
+
+.contenido {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 20px;
+}
+
+.texto {
+  flex: 1;
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
+
+.imagen {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.foto-perfil {
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border: 4px solid #0912ff;
+}
+
+.btn-cv {
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.btn-cv a {
+  text-decoration: none;
+  color: #fff;
+  background-color: #0912ff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 1rem;
+  transition: background-color 0.3s;
+}
+
+.btn-cv a:hover {
+  background-color: #45a049;
+}

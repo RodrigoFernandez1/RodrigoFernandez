@@ -1,0 +1,77 @@
+.experiencia {
+  padding: 50px 20px;
+  background-color: #e2e2e2;
+  color: #333;
+}
+
+.section-title {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 30px;
+  color: #222;
+}
+
+.experiencia-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.experiencia-item {
+  background: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.experiencia-item:hover {
+  transform: scale(1.02);
+}
+
+.puesto {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #2530ff;
+}
+
+.empresa {
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin: 5px 0;
+}
+
+.periodo {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 10px;
+  display: block;
+}
+
+.descripcion {
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #555;
+}
+
+.buton-ver {
+  display: inline-block;
+  margin-top: 20px;
+  text-decoration: none;
+}
+
+.buton-ver button {
+  color: #fff;
+  background-color: #0912ff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 1rem;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.buton-ver button:hover {
+  background-color: #45a049;
+}

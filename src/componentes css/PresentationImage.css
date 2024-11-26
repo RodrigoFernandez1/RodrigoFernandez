@@ -1,0 +1,13 @@
+.presentation-image {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #e0f7fa);
+}
+
+.presentation-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
