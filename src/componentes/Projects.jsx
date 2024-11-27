@@ -8,7 +8,7 @@ const PROJECTS = [
       "devprograming es un proyecto basado en un cuaderno que llené con recursos (webs) para aprender o mejorar en el desarrollo web.",
     link: "https://devprograming.netlify.app/",
     github: "https://github.com/RodrigoFernandez1/devprograming",
-    image: "../public/devprograming.webp",
+    image: "../devprograming.webp",
   },
   {
     title: "rodrigoproyectos",
@@ -16,7 +16,7 @@ const PROJECTS = [
       "He creado esta web con tecnologías básicas del front, para exponer mis proyectos de una importancia menor, además de poner recursos para ayudar a los demás.",
     link: "https://rodrigoproyectos.netlify.app/",
     github: "https://github.com/RodrigoFernandez1/rodrigoproyectos",
-    image: "../public/rodrigoproyectos.webp",
+    image: "../rodrigoproyectos.webp",
   },
 ];
 
