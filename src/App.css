@@ -75,14 +75,14 @@
   align-items: center;
   padding: 0.5rem 1rem;
   border-radius: 0.5rem;
-  background-color: #2d3748; /* Fondo gris oscuro */
+  background-color: #2d3748;
   color: white;
   text-decoration: none;
   transition: background-color 0.3s ease;
 }
 
 .link-button:hover {
-  background-color: #4a5568; /* Gris claro al pasar el mouse */
+  background-color: #4a5568;
 }
 
 /* Estilos para el header */
@@ -99,7 +99,7 @@
 }
 
 .logo-container .logo {
-  width: 30%; /* tamaño de tu logo */
+  width: 30%;
   height: auto;
 }
 
@@ -112,7 +112,7 @@
 }
 
 .custom-nav-link:hover {
-  color: #0400ff !important; /* Color verde al pasar el cursor (opcional) */
+  color: #0400ff !important;
 }
 
 /* Estilos para el nav */
@@ -140,7 +140,7 @@
 }
 
 .nav-item a:hover {
-  color: #4caf50; /* Cambia el color del texto al pasar el mouse */
+  color: #4caf50;
 }
 
 /* estilos para el cntenedo principal */
@@ -162,7 +162,5 @@
 
 /* Personaliza el logo */
 .navbar-brand img {
-  max-height: 50px; /* Ajusta el tamaño del logo */
+  max-height: 50px;
 }
-
-/* Estilos para el footer */

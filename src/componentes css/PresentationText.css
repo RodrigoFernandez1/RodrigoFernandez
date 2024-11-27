@@ -2,13 +2,13 @@
 
 .presentation-text {
   width: 100%;
-  padding: 0 5vh;
+  padding: 20px;
   color: #333;
   background: linear-gradient(135deg, #f9e2b3);
   display: flex;
   flex-direction: column;
   justify-content: center;
-  height: 69vh;
+  height: 90%;
 }
 
 .presentation-text h1 {
