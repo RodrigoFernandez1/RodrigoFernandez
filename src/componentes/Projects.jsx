@@ -5,18 +5,18 @@ const PROJECTS = [
   {
     title: "dev programing",
     description:
-      "Mundo dev es un proyecto basado en un cuaderno que llené con recursos (webs) para aprender o mejorar en el desarrollo web.",
+      "devprograming es un proyecto basado en un cuaderno que llené con recursos (webs) para aprender o mejorar en el desarrollo web.",
     link: "https://devprograming.netlify.app/",
-    github: "https://github.com/RodrigoFernandez1/mundo-programador",
-    image: "./public/mundodev.webp",
+    github: "https://github.com/RodrigoFernandez1/devprograming",
+    image: "../public/devprograming.webp",
   },
   {
-    title: "rodrigofernandez-proyectos",
+    title: "rodrigoproyectos",
     description:
       "He creado esta web con tecnologías básicas del front, para exponer mis proyectos de una importancia menor, además de poner recursos para ayudar a los demás.",
-    link: "https://rodrigofernandez-proyectos.vercel.app/",
-    github: "https://github.com/RodrigoFernandez1/Web-muestras-de-proyectos",
-    image: "./public/rodrigoproyecto.webp",
+    link: "https://rodrigoproyectos.netlify.app/",
+    github: "https://github.com/RodrigoFernandez1/rodrigoproyectos",
+    image: "../public/rodrigoproyectos.webp",
   },
 ];
 
